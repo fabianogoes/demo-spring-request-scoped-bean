@@ -1,0 +1,11 @@
+POST http://localhost:8080
+Content-Type: application/json
+
+{
+  "name": "Fabiano",
+  "age": 43,
+  "referenceDate": "2020-04-08"
+}
+
+###
+
